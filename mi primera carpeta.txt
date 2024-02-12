@@ -1,2 +1,2 @@
 aqui aprendiendo a manejar git y este archivo sera modificado para ver su nuevo estado
-estoy haciendo un segundo cambio como ejercicio
+estoy haciendo un segundo cambio como ejercicios
