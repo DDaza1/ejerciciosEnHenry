@@ -1,0 +1,32 @@
+        /*Estilos para el contenedor principal */
+    .container {
+        text-align: center; /* Centra todo el contenido dentro del contenedor */
+    }
+        /* Estilos para el encabezado */
+    header h1{
+        text-align: center; /* Centra el texto del encabezado */
+        font-size: 36px; /* Tamaño de letra para el encabezado del header */
+        color: rgb(247, 0, 255); /* Color del texto */
+        font-family: "Latin Modern Roman";/* fuente de letra para el header */
+        font-style: italic;
+    }
+        
+     /* Estilos para el título */
+    h2 {
+        text-align: center; /* Centra el texto del título */
+        font-size: 24px; /* Tamaño de letra para el título del párrafo */
+        color: rgb(16, 212, 247); /* Color del texto */
+    }
+     
+     /* Estilos para el párrafo */
+    p {
+        max-width: 1000px; /* Establece un ancho máximo para el párrafo */
+        margin: 0 auto; /* Centra el párrafo en la página */
+        padding: 10px; /* Añade un espacio alrededor del párrafo para mayor legibilidad */
+        font-size: 16px; /* Tamaño de letra para el párrafo */
+        color: rgb(112, 112, 112); /* Color del texto */
+    }
+
+
+
+
