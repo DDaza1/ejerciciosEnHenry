@@ -3,7 +3,6 @@
     text-align: center; /* Centra todo el contenido dentro del contenedor */
 }
 
-/* Estilos para el encabezado */
 header h1{
     text-align: center; /* Centra el texto del encabezado */
     font-size: 36px; /* Tamaño de letra para el encabezado del header */
@@ -16,14 +15,16 @@ header h1{
 h2 {
     text-align: center; /* Centra el texto del título */
     color: rgb(115, 123, 124); /* Color del texto */
-    font: oblique bold 120% candara;
+    font: oblique bold 130% candara;
 }
        
 /* Estilos para el párrafo */
 p {
-    max-width: 850px; /* Establece un ancho máximo para el párrafo */
+    text-align: center; /* Centra el texto del parrafo */
+    text-align: left; /* Justifica el texto dentro del párrafo */
+    max-width: 950px; /* Establece un ancho máximo para el párrafo */
     margin: 0 auto; /* Centra el párrafo en la página */
-    padding: 7px; /* Añade un espacio alrededor del párrafo para mayor legibilidad */
+    padding: 6px; /* Añade un espacio alrededor del párrafo para mayor legibilidad */
     color: rgb(134, 134, 134); /* Color del texto */
     font: oblique bold 85% candara;
 }
@@ -33,6 +34,18 @@ img {
     border: 4px solid rgb(180, 138, 171); /* Tamaño y color del borde */
 }
 
+footer {
+    width: 100%;
+    padding: 5px 0; /* Añade un espacio alrededor del párrafo para mayor legibilidad */
+    padding: 10px; /* Añade un espacio alrededor del párrafo para mayor legibilidad */
+    background-color: #ae8fb1af; /* Color de fondo del footer */
+}
 
-
+footer p {
+    text-align: center;
+    line-height: 0; /* Elimina el espacio entre cada renglón */    
+    font-family: "times new roman";
+    font: oblique bold 100% Copperplate;
+    color:  #3f3d3dcb; /* Color del texto */
+}
 
